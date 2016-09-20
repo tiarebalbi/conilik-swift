@@ -32,9 +32,8 @@ All pull request should be linked to a issue to allow everyone understand the id
 
 ## Documentation
 
-// TODO 
-
+* JIRA (Issues+Documentation): [https://conilik.atlassian.net](https://conilik.atlassian.net)
 
 ## Community
 
-* Slack: [https://conilik.slack.com](https://conilik.slack.com)
+* HipChat: [https://conilik.hipchat.com](https://conilik.hipchat.com)
